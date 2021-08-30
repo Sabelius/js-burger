@@ -1,0 +1,35 @@
+
+.title{
+    background-color: rgb(235, 180, 31);
+}
+.sandwichname{
+    font-size: 20px;
+    border: none;
+    outline: 0;
+}
+.ingredientimg{
+    width: 50px;
+    border-radius: 10px;
+}
+.ingredients-list{
+    list-style-type: none;
+}
+.add{
+    color: red;
+}
+.coupon{
+    width: 85%;
+    background-color: wheat;
+    border-radius: 5px;
+    border: none;
+}
+.price-button{
+    background-color: orange;
+    font-size: 20px;
+    border-radius: 5px;
+    border: none;
+}
+.final-price{
+    background-color: red;
+    font-size: 40px;
+}
