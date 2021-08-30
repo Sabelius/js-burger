@@ -2,6 +2,12 @@
 .title{
     background-color: rgb(235, 180, 31);
 }
+footer{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
 .sandwichname{
     font-size: 20px;
     border: none;
